@@ -1,0 +1,7 @@
+F:\Programacao\Jogos\KinMatematica\KinMatematica\KinMatematicaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacao\Jogos\SDK Microsoft\KinMatematica\KinMatematica\KinMatematicaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematicaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematicaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematicaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\Antigos\KinMatematica\KinMatematica\KinMatematicaContent\obj\x86\Debug\KinMatematicaContent.contentprojResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematicaContent\obj\x86\Debug\KinMatematicaContent.contentprojResolveAssemblyReference.cache

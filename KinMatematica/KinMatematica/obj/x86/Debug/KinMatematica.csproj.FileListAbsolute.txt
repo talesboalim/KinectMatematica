@@ -1,0 +1,72 @@
+F:\Programacao\Jogos\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.exe
+F:\Programacao\Jogos\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.pdb
+F:\Programacao\Jogos\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacao\Jogos\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programacao\Jogos\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.exe
+F:\Programacao\Jogos\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.pdb
+F:\Programacao\Jogos\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Programacao\Jogos\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Programacao\Jogos\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.exe
+F:\Programacao\Jogos\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.pdb
+F:\Programacao\Jogos\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacao\Jogos\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programacao\Jogos\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.exe
+F:\Programacao\Jogos\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.pdb
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.exe
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.pdb
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.exe
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.pdb
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\myCustomFont.xnb
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\AberturaFundo.xnb
+F:\Programacao\Kinect\SDK Microsoft\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Cursor.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\AberturaFundo.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Cursor.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\myCustomFont.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.exe
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.pdb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.exe
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.pdb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Lousa.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFontGrande.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Area.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFontCourierPequena.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Opcao.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Bloco.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\incorreto.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\correto.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFontOpcao.xnb
+F:\Programação\Kinect\SDK Kinect\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFontMedia.xnb
+E:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.exe
+E:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.pdb
+F:\Programação\Kinect\Fontes\Antigos\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.csprojResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\Antigos\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programação\Kinect\Fontes\Antigos\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.exe
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.csprojResolveAssemblyReference.cache
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.exe
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\AberturaFundo.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Bloco.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Cursor.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\myCustomFont.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Lousa.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Area.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\Opcao.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\incorreto.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\correto.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFontGrande.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFontCourierPequena.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFontOpcao.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\SpriteFontMedia.xnb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.exe
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\KinMatematica.pdb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\obj\x86\Debug\KinMatematica.pdb
+F:\Programação\Kinect\Fontes\KinMatematica\KinMatematica\KinMatematica\bin\x86\Debug\Content\corpo.xnb
